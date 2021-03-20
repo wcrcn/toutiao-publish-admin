@@ -80,7 +80,6 @@ export default {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: pink;
   .login {
     padding: 20px;
     background: #fff;
